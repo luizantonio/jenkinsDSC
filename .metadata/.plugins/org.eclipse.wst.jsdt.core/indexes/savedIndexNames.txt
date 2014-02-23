@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+C:\Users\LUIZ\git\jenkinsDSC\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1304541895.index
+1582307275.index
+1126945178.index
+3257455893.index
+1990766367.index
